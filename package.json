@@ -1,0 +1,7 @@
+{
+  "name": "cmondor-com",
+  "private": true,
+  "scripts": {
+    "dev": "netlify dev"
+  }
+}
